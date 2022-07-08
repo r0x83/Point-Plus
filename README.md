@@ -1,1 +1,1 @@
-Student certificate management application built using React-Native and Firebase 
+NOTE: Student certificate management application built using React-Native and Firebase
